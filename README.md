@@ -1,1 +1,1 @@
-# KMP_Sample_Notes_App
+# KMP Sample Notes App
