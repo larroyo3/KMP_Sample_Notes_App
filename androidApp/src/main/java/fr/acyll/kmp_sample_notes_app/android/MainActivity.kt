@@ -13,6 +13,7 @@ import fr.acyll.kmp_sample_notes_app.Greeting
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
         setContent {
             MyApplicationTheme {
                 Surface(
